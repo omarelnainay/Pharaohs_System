@@ -42,7 +42,3 @@ Create a virtual environment.
 
 Run the main script using:
 python DEPI_Project.py
-
-📄 Documentation
-
-The file DEPI_Final_Project_Report.docx contains the full methodology, explanation of the dataset, analytics steps, and findings.
