@@ -38,7 +38,7 @@ Setup
 
 Install Python and required dependencies.
 
-(Optional) Create a virtual environment.
+Create a virtual environment.
 
 Run the main script using:
 python DEPI_Project.py
